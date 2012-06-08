@@ -57,6 +57,6 @@ __END__
 
 Any bugs or evolution can be submit here :
 
-L<Github|http://github.com/geistteufel/ModuleUnderscore>
+L<Github|http://github.com/celogeek/ModuleUnderscore>
 
 =head1
