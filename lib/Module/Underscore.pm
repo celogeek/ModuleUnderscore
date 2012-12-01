@@ -50,13 +50,3 @@ sub module_to_underscore {
 }
 
 1;
-
-__END__
-
-=head1 BUGS
-
-Any bugs or evolution can be submit here :
-
-L<Github|http://github.com/celogeek/ModuleUnderscore>
-
-=head1
