@@ -1,0 +1,10 @@
+*.swp
+.DS_Store
+*.old
+*.bak
+*.tdy
+.build
+.includepath
+.project
+ModuleUnderscore-*
+xt/perltidy.rc
